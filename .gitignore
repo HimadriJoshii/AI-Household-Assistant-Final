@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Database
+household.db
+
+# Node.js dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# System files
+.DS_Store
